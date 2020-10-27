@@ -18,8 +18,8 @@ package main
 import (
 	"log"
 
-	"github.com/chiradeep/go-nitro/config/basic"
-	"github.com/chiradeep/go-nitro/netscaler"
+	"github.com/piontekdd/go-nitro/config/basic"
+	"github.com/piontekdd/go-nitro/netscaler"
 )
 
 func example2() {

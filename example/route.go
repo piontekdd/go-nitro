@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/chiradeep/go-nitro/config/network"
-	"github.com/chiradeep/go-nitro/netscaler"
+	"github.com/piontekdd/go-nitro/config/network"
+	"github.com/piontekdd/go-nitro/netscaler"
 )
 
 func main() {

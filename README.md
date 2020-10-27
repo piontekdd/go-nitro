@@ -16,7 +16,7 @@ You can checkout a specific tag or download the corresponding release if you wou
 version of the API other than the one pointed to by the master branch.
 
 ## Usage
-Import the SDK from github.com/chiradeep/go-nitro/netscaler. Config objects are available at github.com/chiradeep/go-nitro/config.
+Import the SDK from github.com/piontekdd/go-nitro/netscaler. Config objects are available at github.com/piontekdd/go-nitro/config.
 Instantiate a client using `NewNitroClient`. To initialize the client from environment variables:
 
 ```
@@ -34,8 +34,8 @@ The general pattern for NetScaler config objects is some combination of  `AddRes
 package main
 
 import (
-        "github.com/chiradeep/go-nitro/config/lb"
-        "github.com/chiradeep/go-nitro/netscaler"
+        "github.com/piontekdd/go-nitro/config/lb"
+        "github.com/piontekdd/go-nitro/netscaler"
 )
 
 function main() {

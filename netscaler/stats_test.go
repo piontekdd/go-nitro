@@ -5,8 +5,8 @@ import (
 	"testing"
 	"strconv"
 
-	"github.com/chiradeep/go-nitro/config/basic"
-	"github.com/chiradeep/go-nitro/config/lb"
+	"github.com/piontekdd/go-nitro/config/basic"
+	"github.com/piontekdd/go-nitro/config/lb"
 )
 
 func TestNitroClient_FindAllStats(t *testing.T) {

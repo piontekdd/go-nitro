@@ -25,10 +25,10 @@ import (
 
 	"os"
 
-	"github.com/chiradeep/go-nitro/config/basic"
-	"github.com/chiradeep/go-nitro/config/lb"
-	"github.com/chiradeep/go-nitro/config/network"
-	"github.com/chiradeep/go-nitro/config/ns"
+	"github.com/piontekdd/go-nitro/config/basic"
+	"github.com/piontekdd/go-nitro/config/lb"
+	"github.com/piontekdd/go-nitro/config/network"
+	"github.com/piontekdd/go-nitro/config/ns"
 )
 
 var client *NitroClient
